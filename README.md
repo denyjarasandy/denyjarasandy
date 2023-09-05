@@ -7,6 +7,6 @@ My activity tends mostly toward Reverse Engineering.
 
 ## Contact
 
-- **Discord** : SmokinGun#1672
+- **Discord** : _smokingun_
 - **Telegram** : [SmokinGun](https://t.me/SmokinGun_RCE)
 
